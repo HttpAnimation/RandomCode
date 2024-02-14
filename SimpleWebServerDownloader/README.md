@@ -1,4 +1,4 @@
-# Just downloads a file online
+# Just downloads a file from a webserver
 
 ## Compileing
 ```bash
